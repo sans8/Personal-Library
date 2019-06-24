@@ -1,0 +1,8 @@
+#header {border:2px ;height:90px;background-color:#54a8aa;}
+#header h2 {font-weight:normal;padding-top:15px;padding-left:25px;padding-bottom:5px;font-family:inherit;}
+#nav {background-color:#54a8aa; overflow: hidden;height:70px;padding-top:10px;}
+#nav a {padding:5px;color:black;}
+#footer {border:2px ;height:60px;background-color:#54a8aa;}
+* {margin:0;padding:0;}
+
+#header hr {border: 0.7px solid black;}

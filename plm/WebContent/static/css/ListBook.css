@@ -1,0 +1,18 @@
+#container {height: 510px;width:100%;background-color: #EAF2F8;}
+#container h2 {text-align:center;padding-top:20px;}
+table {margin: 0px auto;border: 1px solid black;margin-top:50px;border-spacing:5px;border-collapse: collapse;}
+th,tr,td { width:120px;height:25px;border: 1px solid black;padding-left: 5px;}
+button {cursor:pointer;}
+#delete {
+	height:30px;
+	margin-top:15px;
+	margin-left: 980px;
+}
+
+#report {
+	height:28px;
+	margin-top:15px;
+	margin-left: 980px;
+	width:140px;
+}
+

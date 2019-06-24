@@ -1,0 +1,9 @@
+
+#container {height: 510px;width:100%;background-color: #EAF2F8;}
+#container h2 {text-align:center;padding-top:20px;}
+
+table {height:250px;margin-left:525px;padding-top:30px;cellspacing:20px;}
+input 	{font-size:16px;font-family:inherit;}
+tr {font-size:20px;}
+#error {margin-left:530px;margin-top:15px;font-size:16pt;color:red;}	
+#submit {height:30px;width:60px;cursor:pointer;}

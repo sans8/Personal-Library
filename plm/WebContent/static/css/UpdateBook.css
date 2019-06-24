@@ -1,0 +1,6 @@
+#container {height: 510px;width:100%;background-color: #EAF2F8;}
+#container h2 {text-align:center;padding-top:20px;}
+table {height:250px;margin-left:525px;padding-top:50px;cellspacing:20px;}
+input 	{font-size:18px;font-family:inherit;padding:3px;}
+tr {font-size:20px;}
+th,td {padding:5px;}
